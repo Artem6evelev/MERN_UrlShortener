@@ -1,4 +1,5 @@
 {
     "port": 5000,
+    "jwtSecret": "artem6evelev",
     "mongoUri": "mongodb+srv://Artem:artem6evelev@cluster0.gvx7k.mongodb.net/app?retryWrites=true&w=majority"
 }
